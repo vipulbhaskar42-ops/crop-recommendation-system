@@ -34,3 +34,6 @@ Paste your Streamlit URL here
 
 ## Author
 Vipul Bhaskar
+## Live Demo
+
+https://crop-recommendation-system-xxxxxxxx.streamlit.app
