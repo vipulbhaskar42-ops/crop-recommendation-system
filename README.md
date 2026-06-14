@@ -36,4 +36,5 @@ Paste your Streamlit URL here
 Vipul Bhaskar
 
 ## Live Demo
-https://crop-recommendation-system-xxxxxxxx.streamlit.app
+
+https://crop-recommendation-system-n7orhqjgz5ihmwipeqnwvd.streamlit.app
